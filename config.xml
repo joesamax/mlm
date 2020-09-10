@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "fr.belhairs/bapp"
+        id          = "fr.catapp.mlm"
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>BelHairs</name>
+	<name>MLM Souvenirs</name>
 
-	<description></description>
+	<description>catalogue virtuel</description>
 
 	<author href="" email=""></author>
 
